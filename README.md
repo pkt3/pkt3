@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @pkt3
+- 👀 I’m interested in coding and software development
+- 🌱 I’m currently learning Lua and C++
+- 💞️ I’m looking to collaborate on projects
+- 📫 Reach me on discord: vo#0550
